@@ -1,6 +1,7 @@
 # BUGBOUNTY AUTORECON
 AUTO RECON PYTHON SCRIPT
-
+**NOTE THE SCRIPT IS STEP UP TO WORK IN MY COMPUTER IF USED PLEASE MODIFY PATH OF TOOLS AND MAKE SURE HAVE ALL REQUIREMENTS:
+  -Assetfinder, Subfinder, Sublist3r, HTTPX
 Here's a step-by-step explanation of what the script does:
 
 User Input:
